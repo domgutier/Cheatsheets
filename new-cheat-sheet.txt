@@ -1,0 +1,38 @@
+
+
+This is my cheat sheet
+cat jsjsj.text
+cd
+cd ..
+cd ~    
+clear
+command A
+command L
+echo "text"
+echo "text" >jsjsj.text
+ls
+tab
+touch =create file
+~=home
+
+create New repository name same was folder on local
+
+COPy paste add origin
+
+add
+commit
+push
+
+in directory on local 
+
+
+
+
+after added just 
+add commit
+push
+
+
+
+
+
